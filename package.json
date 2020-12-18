@@ -38,7 +38,7 @@
     "ace-builds": "^1.4.12",
     "firebase": "^7.17.2",
     "esprima": "^4.0.1",
-    "graphql": "^15.3.0",
+    "graphql": "^15.4.0",
     "graphql-language-service-interface": "^2.4.1",
     "nuxt": "^2.12.2",
     "nuxt-i18n": "^6.13.2",
