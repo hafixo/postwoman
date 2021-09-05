@@ -30,7 +30,7 @@
     "printWidth": 100
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.12.1",
+    "@nuxtjs/axios": "^5.12.3",
     "@nuxtjs/gtm": "^2.3.2",
     "@nuxtjs/robots": "^2.4.2",
     "@nuxtjs/sitemap": "^2.4.0",
@@ -62,6 +62,6 @@
     "prettier": "^2.0.5",
     "pretty-quick": "^2.0.1",
     "sass-loader": "^9.0.3",
-    "start-server-and-test": "^1.11.3"
+    "start-server-and-test": "^1.11.7"
   }
 }
